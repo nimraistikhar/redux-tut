@@ -38,7 +38,7 @@
 }
 .img-wrapper img {
   width: 100px;
-  margin-top: -10px;;
+  margin-top: -20px;;
 }
 .cart-wrapper{
   height: 100px;
@@ -60,7 +60,6 @@
     top: 1%;
 }
 .cart-count{
-  
     position: absolute;
     right: 10px;
     top: 12px;
